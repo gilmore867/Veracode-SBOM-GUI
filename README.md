@@ -7,3 +7,5 @@ The application requires the following Windows environment variables to be defin
 Veracode_API_ID
 
 Veracode_API_Key
+
+This is not an official Veracode supported project.
