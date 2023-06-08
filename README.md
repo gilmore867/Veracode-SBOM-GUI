@@ -1,4 +1,4 @@
-Veracode-SBOM-GUI
+#Veracode-SBOM-GUI
 A Windows based GUI to generate SBOM json files.
 
 The application requires the following Windows environment variables to be defined.
