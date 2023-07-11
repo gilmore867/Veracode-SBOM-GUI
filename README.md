@@ -10,8 +10,10 @@ Veracode_API_Key
 
 This is not an official Veracode project.
 
-![image](https://github.com/gilmore867/Veracode-SBOM-GUI/assets/19678778/c9eb0ce4-7682-4869-8c05-9b24144161d1)
+![image](https://github.com/gilmore867/Veracode-SBOM-GUI/assets/19678778/93a089d5-72af-4099-88fc-89f7f64143b3)
 
-![image](https://github.com/gilmore867/Veracode-SBOM-GUI/assets/19678778/fe3618af-60cf-4f63-aa25-f347fbaad324)
+
+![image](https://github.com/gilmore867/Veracode-SBOM-GUI/assets/19678778/1c6f61ee-92a6-47df-95a5-f5c092eb208b)
+
 
 
